@@ -13,6 +13,7 @@ export const profile: Profile = {
   location: "Basel, Switzerland",
   email: "carlotta.pupulin@gmail.com",
   linkedin: "https://linkedin.com/in/carlottapupulin",
+  // cvUrl: "/carlotta-pupulin-cv.pdf", // ← uncomment and add your CV PDF to public/
 };
 
 export const words = [
